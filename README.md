@@ -2,8 +2,7 @@
 Solutions and Discussions
 
 ## Math Courses
-+ [**Home » Courses » Mathematics » Single Variable Calculus
-Single Variable Calculus**](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
++ [**Single Variable Calculus**](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 + [**Matrix Methods in Data Analysis, Signal Processing, and Machine Learning**](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 + [**Multivariable Calculus**](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
 + [**Differential Equations**](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
